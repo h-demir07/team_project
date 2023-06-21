@@ -1,1 +1,3 @@
-class MainClass{}
+class MainClass {
+  const MainClass();
+}
